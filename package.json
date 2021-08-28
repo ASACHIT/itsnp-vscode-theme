@@ -4,7 +4,7 @@
     "displayName": "itsnp theme",
     "description": "ITSNP Vs code Theme",
     "icon": "logo/itsnp.png",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -14,9 +14,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "itsnp Dark Theme",
+                "label": "itsnp Dark Green",
                 "uiTheme": "vs-dark",
                 "path": "./themes/itsnp Dark Theme-color-theme.json"
+            },
+            {
+                "label": "itsnp Dark Cyan",
+                "uiTheme": "vs-dark",
+                "path": "/themes/darkcyan.json"
             }
         ]
     },
@@ -24,8 +29,8 @@
         "name": "Sachit",
         "discord": "!Sachhit#8080",
         "email": "sachityadav987@gmail.com"
-      },
-      "repository": {
+    },
+    "repository": {
         "url": "https://github.com/ASACHIT/itsnp-vscode-theme.git"
-      }
+    }
 }
