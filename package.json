@@ -4,7 +4,7 @@
     "displayName": "itsnp theme",
     "description": "ITSNP Vs code Theme",
     "icon": "logo/itsnp.png",
-    "version": "1",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.59.0"
     },
