@@ -4,7 +4,7 @@
     "displayName": "itsnp theme",
     "description": "ITSNP Vs code Theme",
     "icon": "logo/itsnp.png",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.59.0"
     },
@@ -16,12 +16,17 @@
             {
                 "label": "itsnp Dark Green",
                 "uiTheme": "vs-dark",
-                "path": "./themes/itsnp Dark Theme-color-theme.json"
+                "path": "./themes/itsnp-dark.json"
             },
             {
                 "label": "itsnp Dark Cyan",
                 "uiTheme": "vs-dark",
                 "path": "/themes/darkcyan.json"
+            },
+            {
+                "label": "itsnp Dark Pink",
+                "uiTheme": "vs-dark",
+                "path": "/themes/pink.json"
             }
         ]
     },

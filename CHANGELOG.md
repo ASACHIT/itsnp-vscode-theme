@@ -1,10 +1,7 @@
 # Change Log
 
-All notable changes to the "itsnp-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
 
 - Initial release
 - added new theme & icon changed of extension
+- added Pink theme and minor color improments 

@@ -6,4 +6,3 @@ html
 python
 ![img](https://media.discordapp.net/attachments/881148108602503218/881148275376394300/Screenshot_12.png)
 
-> modified version of Material theme
