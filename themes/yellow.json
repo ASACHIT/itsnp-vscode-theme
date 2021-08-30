@@ -14,8 +14,7 @@
                 "storage.modifier.import.java"
             ],
             "settings": {
-                "foreground": "#FF7135",
-                "fontStyle": "italic"
+                "foreground": "#FF7135"
             }
         },
         {
@@ -226,8 +225,7 @@
                 "meta.class.body.php storage.type.php"
             ],
             "settings": {
-                "foreground": "#FF7135",
-                "fontStyle": "italic"
+                "foreground": "#FF7135"
             }
         },
         {
@@ -251,8 +249,7 @@
                 "entity.other.inherited-class.php"
             ],
             "settings": {
-                "foreground": "#14E5D4",
-                "fontStyle": "italic"
+                "foreground": "#14E5D4"
             }
         },
         {
@@ -393,8 +390,7 @@
                 "meta.embedded.block.blade storage.type.php"
             ],
             "settings": {
-                "foreground": "#FFB638",
-                "fontStyle": "italic"
+                "foreground": "#FFB638"
             }
         },
         {
@@ -519,8 +515,7 @@
                 "entity.other.attribute-name.class punctuation.definition.entity"
             ],
             "settings": {
-                "foreground": "#14E5D4",
-                "fontStyle": "italic"
+                "foreground": "#14E5D4"
             }
         },
         {
@@ -528,8 +523,7 @@
                 "entity.other.attribute-name.parent-selector-suffix punctuation.definition.entity"
             ],
             "settings": {
-                "foreground": "#14E5D4",
-                "fontStyle": "italic"
+                "foreground": "#14E5D4"
             }
         },
         {
@@ -568,8 +562,7 @@
                 "keyword.other.unit"
             ],
             "settings": {
-                "foreground": "#FF7135",
-                "fontStyle": "italic"
+                "foreground": "#FF7135"
             }
         },
         {
@@ -729,7 +722,7 @@
         "scrollbarSlider.activeBackground": "#FFB638",
         "tab.unfocusedActiveBorder": "#464B5D",
         "tab.activeForeground": "#FFFFFF",
-        "tab.inactiveForeground": "#525975",
+        "tab.inactiveForeground": "#c1cad9",
         "tab.activeBackground": "#0F111A",
         "tab.unfocusedActiveForeground": "#c8cde6",
         "editorWidget.resizeBorder": "#FFB638",
