@@ -37,11 +37,6 @@
                 "label": "itsnp Yellow",
                 "uiTheme": "vs-dark",
                 "path": "/themes/yellow.json"
-            },
-            {
-                "label": "itsnp neri",
-                "uiTheme": "vs-dark",
-                "path": "/themes/nerididi.json"
             }
         ]
     },
